@@ -1,4 +1,3 @@
-# vue-select2
 
 ## Project setup
 ```
